@@ -1,9 +1,9 @@
 {
-  "version": "1.2.2",
+  "version": "1.2.3",
   "model": "B",
-  "url": "Clickity-7-B-v1.2.2-ota.bin",
+  "url": "Clickity-7-B-v1.2.3-ota.bin",
   "size": 1528672,
-  "sha256": "336bc79ff78812ab0640f588c9b938540a3e7ae23f6717686d0e71c374d89c05",
-  "usb": "Clickity-7-B-v1.2.2-usb.bin",
+  "sha256": "431ab96df271333057f7c9984636cf87b18798242da370a2862a1989c1017e3d",
+  "usb": "Clickity-7-B-v1.2.3-usb.bin",
   "date": "2026-11-16"
 }
